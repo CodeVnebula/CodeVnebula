@@ -62,7 +62,6 @@
 ## 📊 GitHub Stats
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=CodeVnebula&theme=neon&hide_border=false&include_all_commits=true&count_private=true" height="150"/>
-  <img src="https://nirzak-streak-stats.vercel.app/?user=CodeVnebula&theme=neon&hide_border=false" height="150"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CodeVnebula&theme=neon&hide_border=false&include_all_commits=true&count_private=true&layout=compact" height="150"/>
 </div>
 
