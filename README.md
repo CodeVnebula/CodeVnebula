@@ -6,7 +6,7 @@
 ## 🌱 About Me
 - 🔭 I’m currently working on **Django/DRF apps**  
 - 🌱 I’m currently learning **Advanced Python, Django**  
-- 📫 How to reach me: **[giorgi.chkhikvadze69@gmail.com](mailto:giorgi.chkhikvadze69@gmail.com)**
+- 📫 How to reach me: **[giorgi.chkhikvadze69@gmail.com](mailto:giorgichkhikvadze01@gmail.com)**
 
 ---
 
