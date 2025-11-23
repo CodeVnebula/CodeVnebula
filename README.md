@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Giorgi</h1>
-<h3 align="center">A passionate Python developer from Georgia with 1.5+ years of Python experience</h3>
+<h3 align="center">A passionate Python developer from Georgia with 1.5+ years of experience</h3>
 
 ---
 
