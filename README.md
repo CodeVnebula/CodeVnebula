@@ -59,21 +59,6 @@
 
 ---
 
-## 📊 GitHub Stats
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=CodeVnebula&theme=neon&hide_border=false&include_all_commits=true&count_private=true" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CodeVnebula&theme=neon&hide_border=false&include_all_commits=true&count_private=true&layout=compact" height="150"/>
-</div>
-
----
-
-## 🏆 GitHub Trophies
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=CodeVnebula&theme=radical&no-frame=false&no-bg=true&margin-w=4"/>
-</div>
-
----
-
 ## 📈 Activity Graph
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=CodeVnebula&radius=16&theme=react&area=true&order=5" height="300" alt="activity graph"/>
